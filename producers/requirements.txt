@@ -1,0 +1,4 @@
+Cython
+confluent-kafka[avro]
+pandas
+requests==2.22.0
