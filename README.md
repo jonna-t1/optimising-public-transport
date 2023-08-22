@@ -17,6 +17,9 @@ The following are required to complete this project:
 
 ## Setup
 
+WSL:
+`sudo apt-get install librdkafka-dev -y`
+
 Windows...
 - Download Docker Desktop
 - `docker-compose up`
